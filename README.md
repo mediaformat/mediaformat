@@ -1,5 +1,10 @@
 # Welcome, Bienvenue, Fáilte 👋
 
+Personal updates:
+- July: Vacation 🏝😎
+- June: Thanks to an [ICUF](https://www.icuf.ie/) scholarship, I spent 3 weeks immersed in the Irish language @[Acadamh](https://www.acadamh.ie/) in 🇮🇪
+
+
 ## Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
 - [Article working group](https://mediaformat.org/wordress-activitypub/article-working-group/?utm_source=rss&utm_medium=rss&utm_campaign=article-working-group)
