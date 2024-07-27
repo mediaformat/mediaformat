@@ -1,8 +1,8 @@
 # Welcome, Bienvenue, Fáilte 👋
 
-Personal updates:
+## Personal updates 🗒
 - July: Vacation 🏝😎
-- June: Thanks to an [ICUF](https://www.icuf.ie/) scholarship, I spent 3 weeks immersed in the Irish language @[Acadamh](https://www.acadamh.ie/) in 🇮🇪
+- June: Thanks to an [ICUF](https://www.icuf.ie/) scholarship, I spent 3 weeks immersed in the Irish language @[Acadamh](https://www.acadamh.ie/) in Connemara 🇮🇪
 
 
 ## Latest Blog Posts 📚
