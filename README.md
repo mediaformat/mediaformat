@@ -1,7 +1,7 @@
 # Welcome, Bienvenue, Fáilte 👋
 
 ## Personal updates 🗒
-- August: #OpenToWork, & contributing to some OSS projects
+- August: [#OpenToWork](https://www.linkedin.com/in/django-doucet/), & contributing to OSS projects
 - July: Vacation 🏝😎
 - June: Thanks to an [ICUF](https://www.icuf.ie/) scholarship, I spent 3 weeks immersed in the Irish language @[Acadamh](https://www.acadamh.ie/) in Connemara 🇮🇪
 
