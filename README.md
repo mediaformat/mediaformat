@@ -1,9 +1,10 @@
 # Welcome, Bienvenue, Fáilte 👋
 
 ## Personal updates 🗒
-- August: [#OpenToWork](https://www.linkedin.com/in/django-doucet/), & contributing to OSS projects
-- July: Vacation 🏝😎
-- June: Thanks to an [ICUF](https://www.icuf.ie/) scholarship, I spent 3 weeks immersed in the Irish language @[Acadamh](https://www.acadamh.ie/) in Connemara 🇮🇪
+- September: Found work & have been onboarding. I've put a pause on some personal projects for the moment.
+- August: [#OpenToWork](https://www.linkedin.com/in/django-doucet/), & contributing to OSS projects.
+- July: Vacation 🏝😎!
+- June: Thanks to an [ICUF](https://www.icuf.ie/) scholarship, I spent 3 weeks immersed in the Irish language @[Acadamh](https://www.acadamh.ie/) in Connemara 🇮🇪!
 
 
 ## Latest Blog Posts 📚
