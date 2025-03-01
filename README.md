@@ -10,9 +10,9 @@
 
 ## Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [light-dark limitations](https://mediaformat.org/2025/03/light-dark-limitations/)
 - [Hybrid blocks &amp; HTML API](https://mediaformat.org/2024/08/hybrid-blocks-html-api/)
 - [ActivityPub and Sanitization](https://mediaformat.org/2024/07/activitypub-and-sanitization/)
 - [Article working group](https://mediaformat.org/2024/02/article-working-group/)
 - [Making ServerName work](https://mediaformat.org/2024/01/making-servername-work/)
-- [Signature Verification in WordPress](https://mediaformat.org/2023/10/signature-verification-in-wordpress/)
 <!-- BLOG-POST-LIST:END -->
