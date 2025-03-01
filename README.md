@@ -1,6 +1,7 @@
 # Welcome, Bienvenue, Fáilte 👋
 
 ## Personal updates 🗒
+- October-now: Balancing Work-life, most personal code projects are on hold.
 - September: Found work & have been onboarding. I've put a pause on some personal projects for the moment.
 - August: [#OpenToWork](https://www.linkedin.com/in/django-doucet/), & contributing to OSS projects.
 - July: Vacation 🏝😎!
