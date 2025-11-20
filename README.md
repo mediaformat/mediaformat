@@ -1,11 +1,9 @@
 # Welcome, Bienvenue, Fáilte 👋
 
 ## Personal updates 🗒
-- October-now: Balancing Work-life, most personal code projects are on hold.
-- September: Found work & have been onboarding. I've put a pause on some personal projects for the moment.
-- August: [#OpenToWork](https://www.linkedin.com/in/django-doucet/), & contributing to OSS projects.
-- July: Vacation 🏝😎!
-- June: Thanks to an [ICUF](https://www.icuf.ie/) scholarship, I spent 3 weeks immersed in the Irish language @[Acadamh](https://www.acadamh.ie/) in Connemara 🇮🇪!
+Q4 2025: 
+- November: Released a WordPress Plugin for [Archive.org](https://wordpress.org/plugins/mediaformat-embed-archive-org/)
+- October: Gave a Talk about WordPress and ActivityPub at [WordCamp Canada](https://canada.wordcamp.org/2025/session/intro-to-wordpress-activitypub-what-it-is-how-to-use-it/)
 
 
 ## Latest Blog Posts 📚
