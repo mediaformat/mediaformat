@@ -2,6 +2,7 @@
 
 ## Personal updates 🗒
 Q4 2025: 
+- December: Announced work on a Progressive Web App for ActivityPub
 - November: Released a WordPress Plugin for [Archive.org](https://wordpress.org/plugins/mediaformat-embed-archive-org/)
 - October: Gave a Talk about WordPress and ActivityPub at [WordCamp Canada](https://canada.wordcamp.org/2025/session/intro-to-wordpress-activitypub-what-it-is-how-to-use-it/)
 
