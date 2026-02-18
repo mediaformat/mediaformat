@@ -3,6 +3,7 @@
 ## Personal updates 🗒
 Q1 2026: 
 - January: Gave a lightening [Talk at FOSDEM about the ActivityPub API](https://fosdem.org/2026/schedule/event/QK7XSV-activitypub-c2s/)
+
 Q4 2025: 
 - December: Announced work on a Progressive Web App for ActivityPub
 - November: Released a WordPress Plugin for [Archive.org](https://wordpress.org/plugins/mediaformat-embed-archive-org/)
