@@ -12,9 +12,9 @@ Q4 2025:
 
 ## Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Posting from c2s](https://mediaformat.org/2026/05/posting-from-c2s/)
 - [Media Embed Archive.org](https://mediaformat.org/2025/10/media-embed-archive-org/)
 - [ActivityPub: Client to Server endpoint discovery](https://mediaformat.org/2025/08/activitypub-client-to-server-endpoint-discovery/)
 - [Everytime a SaaS makes you embed a code snippet Wapuu cries](https://mediaformat.org/2025/08/saas-embed-snippet-wapuu-cries/)
 - [Glad to be here!](https://mediaformat.org/2025/07/glad-to-be-here-wpyeg/)
-- [light-dark limitations](https://mediaformat.org/2025/03/light-dark-limitations/)
 <!-- BLOG-POST-LIST:END -->
