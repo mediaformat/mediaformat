@@ -1,6 +1,8 @@
 # Welcome, Bienvenue, Fáilte 👋
 
 ## Personal updates 🗒
+Q3 2026:
+- July: Working on [Nuages](https://mediaformat.org/nuages/) an ActivityPub Client.
 Q1 2026: 
 - January: Gave a lightening [Talk at FOSDEM about the ActivityPub API](https://fosdem.org/2026/schedule/event/QK7XSV-activitypub-c2s/)
 
