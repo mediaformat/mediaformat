@@ -15,9 +15,9 @@ Q4 2025:
 
 ## Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Cacheable Requests for Remote Content](https://mediaformat.org/2026/07/cacheable-requests-for-remote-content/)
 - [Hello World](https://mediaformat.org/2026/07/nuages-says-hello/)
 - [Posting from c2s](https://mediaformat.org/2026/05/posting-from-c2s/)
 - [Media Embed Archive.org](https://mediaformat.org/2025/10/media-embed-archive-org/)
 - [ActivityPub: Client to Server endpoint discovery](https://mediaformat.org/2025/08/activitypub-client-to-server-endpoint-discovery/)
-- [Everytime a SaaS makes you embed a code snippet Wapuu cries](https://mediaformat.org/2025/08/saas-embed-snippet-wapuu-cries/)
 <!-- BLOG-POST-LIST:END -->
