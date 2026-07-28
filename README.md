@@ -15,9 +15,9 @@ Q4 2025:
 
 ## Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Handcrafted code ftw](https://mediaformat.org/2026/07/handcrafted-code-ftw/)
 - [Cacheable Requests for Remote Content](https://mediaformat.org/2026/07/cacheable-requests-for-remote-content/)
 - [Hello World](https://mediaformat.org/2026/07/nuages-says-hello/)
 - [Posting from c2s](https://mediaformat.org/2026/05/posting-from-c2s/)
 - [Media Embed Archive.org](https://mediaformat.org/2025/10/media-embed-archive-org/)
-- [ActivityPub: Client to Server endpoint discovery](https://mediaformat.org/2025/08/activitypub-client-to-server-endpoint-discovery/)
 <!-- BLOG-POST-LIST:END -->
