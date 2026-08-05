@@ -15,9 +15,9 @@ Q4 2025:
 
 ## Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [FediCon / FOSSY](https://mediaformat.org/2026/08/fedicon-fossy/)
 - [Mini website reorganization](https://mediaformat.org/2026/08/mini-website-reorganization/)
 - [Handcrafted code ftw](https://mediaformat.org/2026/07/handcrafted-code-ftw/)
 - [Cacheable Requests for Remote Content](https://mediaformat.org/2026/07/cacheable-requests-for-remote-content/)
 - [Hello World](https://mediaformat.org/2026/07/nuages-says-hello/)
-- [Posting from c2s](https://mediaformat.org/2026/05/posting-from-c2s/)
 <!-- BLOG-POST-LIST:END -->
